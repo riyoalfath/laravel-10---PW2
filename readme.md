@@ -1,7 +1,7 @@
 Using Laravel 10, another version may has issue
 
 Need:
-Laravel 10
+Laravel 10;
 xampp
 
 In order to complete my website programming study
